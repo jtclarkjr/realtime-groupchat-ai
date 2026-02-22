@@ -31,7 +31,6 @@ Why the split? Self managed vs managed services (i.e. Supabase, Vercel, etc)
 
 ## Prerequisites
 
-- Node.js 22+ (vercel does not support Node 24 currently)
 - Bun package manager
 - Docker and Docker Compose (for Redis) - Local DB only
 - **Supabase**: Choose one option below
